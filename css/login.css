@@ -1,0 +1,179 @@
+#qty{
+  width:3rem ;
+}
+.total tfoot td{
+float: right;
+}
+
+.bloc{
+  margin-top: 0rem;
+  width: 30rem;
+  height: 25rem;
+  background-color: hsl(0, 0%, 100%);
+  padding-top: 1.5rem;
+  /* box-shadow: 2px 17px 7px #2980B9; */
+  box-shadow: #2980B9 0px 5px 15px;
+
+}
+
+.image{
+  display: flex;
+  justify-content: space-between;  
+  flex-flow: row nowrap;
+}
+.bloc-login{
+  width: 100%;
+  height: 100vh;
+}
+.bloc img{
+  width: 6.5rem;
+}
+.navbar-brand img{
+  width: 6.5rem;
+
+}
+.container-fluid .navbar-nav {
+  text-align: center;
+}
+.nav-item{
+  float: right;
+}
+.container .form-control{
+  height: 3rem;
+  width: 22rem;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+
+}
+.float a{
+  float: right;
+}
+.blocsash{
+  background-color: rgb(38, 38, 62);
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;  
+  flex-flow: row nowrap;
+
+  /* margin-top: 1.5rem;
+  margin-left: 0.5rem; */
+}
+.bloclink{
+  background-color: aliceblue;
+  width: 18rem;
+  height: 100vh;
+  padding-left: 1.5rem;
+
+}
+.bloclink img{
+  width: 8rem;
+  padding-top: 1rem;
+}
+.nav-link:hover{
+  color: chocolate;
+  
+}
+.cont{
+  height: 100vh;
+  margin-top: 2rem;
+  color: #0e0e0e;
+  padding-top: 0.5rem; 
+  display: flex;
+  justify-content: space-around;  
+  flex-flow: row nowrap;
+  gap: 2rem;
+  margin-right: 4rem;
+
+}
+.back1{
+  
+  width: 16rem;
+  height: 10rem;
+  padding-top: 1rem;
+  background-color: rgb(64, 244, 208);
+  
+}
+.back2{
+
+  width: 16rem;
+  height: 10rem;
+  box-shadow: rgb(246, 243, 120);
+  padding-top: 1rem;
+  background-color: rgb(246, 243, 120);
+}
+.back3{
+
+  width: 16rem;
+  height: 10rem;
+  background-color: rgb(255, 174, 11);
+
+  padding-top: 1rem;
+}
+.back4{
+  background-color: #c45656;
+  width: 16rem;
+  height: 10rem;
+  
+  padding-top: 1rem;
+}
+.home-stat .stat {
+  border-radius: 10px;
+  padding: 20px;
+  font-size: 15px;
+  position: relative;
+  overflow: hidden;
+  height: 12rem;
+}
+.home-stat .stat a {
+  color: white;
+  text-decoration: none;
+}
+
+.home-stat .stat span {
+  display: block;
+  font-size: 70px;
+
+}
+.home-stat .stat .info{
+  float: right;
+
+}
+.home-stat .stat i{
+  position: absolute;
+  font-size: 60px;
+  top: 55px;
+  left: 50px;
+
+}
+#id3 a{
+  color:#0e0e0e;
+}
+#id1 a{
+  color: black;
+
+  }
+  #id2 a{
+  color:black;
+  }
+  #id4 a{
+  color: black;
+  }
+ 
+  
+  .table th{
+    background-color:white;
+  }
+
+  .footer {
+    line-height: 7rem;
+    background-color: #515151;
+    color: white;
+    margin-top: 2rem;
+  }
+  
+  .footer p {
+    text-align: center;
+  
+  }

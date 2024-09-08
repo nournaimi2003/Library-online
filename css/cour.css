@@ -1,0 +1,49 @@
+.navbar-brand img{
+  width: 7.5rem;
+  padding-left: 1rem;
+}
+.footer {
+  line-height: 7rem;
+  background-color: #515151;
+  color: white;
+  margin-top: 2rem;
+}
+
+.footer p {
+  text-align: center;
+
+}
+/* .card-img img{
+  width: 10rem;
+  height: 20rem;
+
+} */
+.row .card {
+  width: 20rem;
+  /* height: 30.5rem; */
+  background-color: rgb(255, 255, 255);
+  box-shadow: #a7a7a7 0px 5px 15px;
+  
+  
+}
+.container{
+  margin-left: 14rem;
+
+}
+.card-img {
+  width: 11rem;
+
+}
+
+#qty{
+  width:4rem ;
+}
+.total tfoot td{
+float: right;
+}
+.counter d-flex{
+  padding-left: 2rem;
+}
+.input{
+  gap: 1rem;
+}
